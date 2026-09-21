@@ -1,6 +1,6 @@
-# Hi there, I'm Stefanus Diyo Chritian 👋
+# Hi there, I'm Stefanus Diyo Christian 👋
 
-[![Header Banner](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Stefanus%20Diyo%20Chrtian&fontSize=40&fontAlignY=38&desc=Business%20Information%20Technology%20Student%20@BINUS&descAlignY=62&descAlign=50)](https://github.com/Alhaidar13)
+[![Header Banner](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Stefanus%20Diyo%20Christian&fontSize=40&fontAlignY=38&desc=Business%20Information%20Technology%20Student%20@BINUS&descAlignY=62&descAlign=50)](https://github.com/Alhaidar13)
 ---
 
 ## 🙋‍♂️ Details / About Me
