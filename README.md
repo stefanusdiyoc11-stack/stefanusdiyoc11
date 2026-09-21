@@ -1,10 +1,9 @@
-<!-- Banner (Opsional - Nilai Plus) -->
+<!-- Banner -->
 <p align="center">
-  <img src="https://via.placeholder.com/1200x300.png?text=Selamat+Datang+ke+Profil+GitHub+Saya" alt="Header Banner" width="100%">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=220&section=header&text=Selamat%20Datang%20ke%20Profil%20GitHub%20Saya&fontSize=35&animation=fadeIn" alt="Header Banner" width="100%" />
 </p>
 
 # Hi there, I'm Stefanus Diyo Christian 👋
-
 ---
 
 ## 🙋‍♂️ Details / About Me
