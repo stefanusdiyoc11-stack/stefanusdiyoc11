@@ -40,6 +40,6 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=stefanusdiyoc11&show_icons=true&theme=radial" alt="Statistik GitHub" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=stefanusdiyoc11&layout=compact&theme=radial" alt="Bahasa Terbanyak" width="48%" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=stefanusdiyoc11&show_icons=true&theme=radial" alt="Statistik GitHub" width="48%" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=stefanusdiyoc11&layout=compact&theme=radial" alt="Bahasa Terbanyak" width="48%" />
 </p>
