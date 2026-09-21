@@ -40,6 +40,6 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=stefanusdiyoc11&theme=radial" alt="GitHub Streak" width="48%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=stefanusdiyoc11&theme=radial" alt="Detail Profil" width="48%" />
+  <img src="https://github-stats-alpha.vercel.app/api?username=stefanusdiyoc11&theme=radial" alt="Statistik GitHub" width="48%" />
+  <img src="https://github-stats-alpha.vercel.app/api/top-langs/?username=stefanusdiyoc11&layout=compact&theme=radial" alt="Bahasa Terbanyak" width="48%" />
 </p>
